@@ -6,7 +6,7 @@ Forum software built with PHP OOP MVC
 
 ## Configurations files
 
-~/config/config.php
+~/config/config.php<br>
 ~/public/js/chat.js
 
 ## Database file
