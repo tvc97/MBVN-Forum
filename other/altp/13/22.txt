@@ -1,0 +1,6 @@
+22.Nguyên phân, cho biết số tế bào có ở kỳ sau của lần nguyên phân thứ ba?
+2 tế bào 
+4 tế bào
+6 tế bào
+8 tế bào 
+ b

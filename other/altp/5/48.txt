@@ -1,0 +1,6 @@
+48.Người viết ra chương trình máy tính được gọi là gì?
+Kiến trúc sư
+Kỹ sư
+Lập trình viên
+Kỹ thuật viên
+ c

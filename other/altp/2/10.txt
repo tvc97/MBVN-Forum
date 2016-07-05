@@ -1,0 +1,6 @@
+10.Trong bàn cờ Tướng, mỗi bên có bao nhiêu quân Sĩ?
+2
+4
+6
+8
+ a

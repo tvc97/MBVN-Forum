@@ -1,0 +1,6 @@
+10.Trong Excel, hàm nào tính luỹ thừa cấp 2?
+Exp 
+Abs 
+Factdouble
+Odd
+ c 

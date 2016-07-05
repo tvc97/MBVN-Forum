@@ -1,0 +1,6 @@
+16.Trong bàn cờ Vua, mỗi bên có bao nhiêu quân Hậu?
+1
+2
+3
+4
+ a

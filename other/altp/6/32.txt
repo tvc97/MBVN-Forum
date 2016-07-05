@@ -1,0 +1,6 @@
+32.Các đèn ống dùng dòng điện xoay chiều có tần số 50Hz sẽ phát sáng hoặc tắt?
+50 lần mỗi ngày 
+25 lần mỗi ngày
+100 lần mỗi ngày 
+Sáng đều không tắt
+ c

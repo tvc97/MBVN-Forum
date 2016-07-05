@@ -1,0 +1,6 @@
+60.Hãy tìm số có hai chữ số lớn nhất mà khi viết lên giấy và xoay ngược lại vẫn có giá trị không đổi ?
+66
+88
+96
+99
+ c 

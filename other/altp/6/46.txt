@@ -1,0 +1,6 @@
+46.Động đất có độ Richter trong khoảng nào thì có thể nhận biết được nhưng không gây thiệt hại?
+1  2
+2  4 
+4  5 
+5  6 
+ b

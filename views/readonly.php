@@ -1,0 +1,1 @@
+<div class="msg">Diễn đàn chuyển sang trạng thái <b>chỉ đọc</b>. Mọi ý kiến vui lòng để lại ở khu vực chatbox</div>

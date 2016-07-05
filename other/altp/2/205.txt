@@ -1,0 +1,6 @@
+13.Loại xe nào nặng hơn các loại xe còn lại?
+Xe đạp 
+Xe lu 
+Xe hơi 
+Xe môtô 
+ b 

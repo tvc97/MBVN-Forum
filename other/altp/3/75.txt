@@ -1,0 +1,6 @@
+75.Một con gà và bốn con chuột, tổng cộng có bao nhiêu cái chân?
+9
+10
+18
+20
+ c

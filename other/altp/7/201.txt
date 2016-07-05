@@ -1,0 +1,6 @@
+16.Chu vi của thân cây Bao báp ở châu Phi có thể khoảng bao nhiêu?
+10  30 m
+20  40 m
+30  40 m
+30  50 m
+ a 

@@ -1,0 +1,6 @@
+82.Các loại bánh dưới đây, có một loại không là bánh nướng?
+Bánh thuẩn 
+Bánh bông lan 
+Bánh tiêu 
+Bánh kẹp 
+ c 

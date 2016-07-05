@@ -1,0 +1,20 @@
+.ordinal {
+    margin-top: 3px;
+    background-color: #2080b0;
+    color: #ffffff;
+    display:inline-block;
+    padding: 3px
+}
+
+.vline {
+    background-color: #2080b0;
+    height: 6px;
+    width: 1px
+}
+
+.tleft {
+    padding: 2px;
+    border: 1px solid #2080b0;
+    color: #2080b0;
+    display: inline-block
+}

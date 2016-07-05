@@ -1,0 +1,6 @@
+82.Trong các số sau đây, số nào chia hết cho 9?
+212
+313 
+414 
+515 
+ c 

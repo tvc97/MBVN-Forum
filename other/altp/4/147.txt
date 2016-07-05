@@ -1,0 +1,6 @@
+48.Trong cờ Tướng, mỗi quân Mã có thể đi được bao nhiêu vị trí?
+70
+80
+90
+100
+ c 

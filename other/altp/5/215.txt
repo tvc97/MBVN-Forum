@@ -1,0 +1,6 @@
+9.Trong Excel, hàm nào trả về chuỗi số tuần tự của ngày tháng?
+Day 
+Date 
+Adate 
+Now
+ b 

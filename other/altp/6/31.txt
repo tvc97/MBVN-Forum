@@ -1,0 +1,6 @@
+31.Chiết suất tuyệt đối của môi trường trong suốt có trị số bao nhiêu?
+Lớn hơn 1
+Bằng 1
+Nhỏ hơn 1
+Tuỳ theo vận tốc ánh sáng
+ d

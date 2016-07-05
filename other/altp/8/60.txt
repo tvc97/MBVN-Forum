@@ -1,0 +1,6 @@
+60.Trong bảng tuần hoàn các nguyên tố hoá học có bao nhiêu chu kì nhỏ?
+1
+2
+3
+4
+ c

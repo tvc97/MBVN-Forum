@@ -1,0 +1,6 @@
+63.Khi di chuyển cửa sổ ta dùng thao tác chuột gì trên thanh tiêu đề của cửa sổ?
+Drag and drop
+Point
+Double Click
+Click
+ a 

@@ -1,0 +1,6 @@
+46.Trong bàn cờ tướng có bao nhiêu quân Tượng?
+2
+4
+6
+8
+ b 

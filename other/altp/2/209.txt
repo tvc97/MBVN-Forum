@@ -1,0 +1,6 @@
+17.Loại tàu này khác với các loại tàu còn lại?
+Tàu hoả 
+Tàu lặn 
+Tàu ngầm 
+Tàu chiến 
+ a 

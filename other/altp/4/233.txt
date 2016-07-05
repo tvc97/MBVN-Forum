@@ -1,0 +1,6 @@
+27.Tích 10 số tự nhiên đầu tiên bằng bao nhiêu?
+1000
+100 
+10 
+0 
+ d 

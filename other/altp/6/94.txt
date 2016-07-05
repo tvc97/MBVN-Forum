@@ -1,0 +1,6 @@
+94.Cho một quỳ tím, khi nhúng vào dung dịch bazơ, quỳ tím chuyển sang màu gì?
+Màu xanh 
+Màu đỏ 
+Màu vàng 
+Không đổi màu 
+ a

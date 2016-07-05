@@ -1,0 +1,6 @@
+91.Bộ cờ đômino tiêu chuẩn có tổng cộng bao nhiêu thanh?
+18
+28
+38
+48
+ b 

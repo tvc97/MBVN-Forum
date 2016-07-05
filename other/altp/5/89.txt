@@ -1,0 +1,6 @@
+89.Trên bàn phím máy tính, phím nào dùng để xoá ký tự đứng sau con trỏ?
+Backspace
+Delete
+ESC
+Del
+ b

@@ -1,0 +1,6 @@
+31.Trong một trận bóng đá, mỗi đội có bao nhiêu cầu thủ chính thức trên sân?
+11
+10
+22
+20
+ a

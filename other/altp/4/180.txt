@@ -1,0 +1,6 @@
+81.Trong các số sau đây, số nào chia hết cho 5?
+101 
+39 
+15 
+12 
+ c 

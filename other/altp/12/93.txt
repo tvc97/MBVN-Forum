@@ -1,0 +1,6 @@
+44.Trong các số nguyên dương nhỏ hơn 100, có bao nhiêu số không chia hết cho 3 và 4?
+25
+50
+75
+100
+ b 

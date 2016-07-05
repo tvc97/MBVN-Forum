@@ -1,0 +1,6 @@
+43.Trên bàn cờ Tướng, có tổng cộng bao nhiêu điểm mà các quân có thể đến?
+80 
+90 
+100 
+120 
+ b 

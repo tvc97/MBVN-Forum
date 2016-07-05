@@ -1,0 +1,6 @@
+30.Đường xích đạo là đường gì?
+Kinh tuyến ngắn nhất 
+Kinh tuyến dài nhất 
+Vĩ tuyến ngắn nhất 
+Vĩ tuyến dài nhất 
+ d 

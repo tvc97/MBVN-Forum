@@ -1,0 +1,6 @@
+84. Trong suốt thời gian sôi, nhiệt độ của nước thay đổi như thế nào?
+Tăng dần lên
+Không thay đổi 
+Tăng rồi giảm 
+Giảm dần 
+ b 

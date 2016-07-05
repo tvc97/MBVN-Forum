@@ -1,0 +1,309 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+}
+
+body {
+    color: #301010;
+    word-wrap: break-word;
+    font-family: 'Trebuchet MS', Verdana, Arial, sans-serif;
+    font-size: x-small;
+    background: #ffffff;
+}
+
+a,a:visited {
+    text-decoration: none;
+    color: #bb3333;
+}
+
+a:hover {
+    text-shadow: 0 0 3px #aa7777;
+}
+
+form {
+    padding: 2px;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+input,textarea,select {
+    border: 1px solid #e0e0e0;
+    margin: 3px;
+    padding: 2px;
+    max-width: 94%;
+    background: #ffffff;
+}
+
+img {
+    max-width: 94%;
+}
+
+textarea {
+    width: 94%;
+}
+
+#wraper {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+#header {
+    color: #ee3000;
+    text-align: center;
+    padding: 6px 0;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 17px;
+    border-bottom: 2px solid #cc3322;
+}
+
+#header a {
+    color: #ee3000;
+}
+
+#nav {
+    border-bottom: 2px solid #bb3322;
+    text-align: center;
+}
+
+#nav a {
+    padding: 5px;
+    display: inline-block;
+    text-transform: uppercase;
+    position: relative;
+}
+
+span.notify {
+    position: absolute;
+    top: -2px;
+    right: -2px;
+    color: red;
+    font-weight: 700;
+    text-decoration: underline;
+    display: inline-block;
+    background: #ffffff;
+}
+
+#addr-bar {
+    border: 1px solid #ffe0e0;
+    border-top: none;
+    margin-bottom: 5px;
+}
+
+#addr-bar a {
+    display: inline-block;
+    padding: 4px 1px;
+}
+
+#footer {
+    margin-top: 8px;
+    border: 1px solid #ffe0e0;
+    border-top: 2px solid #ffe0e0;
+    color: #bb3333;
+    text-align: center;
+    padding: 4px 1px;
+    background: #f7f9fb;
+}
+
+#footer .row {
+    margin-bottom: 4px;
+}
+
+.box {
+    border-left: 1px solid #ffe0e0;
+    border-right: 1px solid #ffe0e0;
+    margin-bottom: 4px;
+}
+
+.hdr {
+    color: #ffffff;
+    padding: 4px;
+    background: url(/public/img/system/hoadao.png) top right no-repeat #ff5050;
+}
+
+.hdr a {
+    color: #ffffff;
+}
+
+.row {
+    padding: 4px;
+    border-bottom: 1px solid #f0f0f0;
+}
+
+.row1 {
+    background-color: #e0e0e0;
+    padding: 4px;
+    border-bottom: 1px solid #f0f0f0;
+}
+
+.row2 {
+    background-color: #a0a0a0;
+    padding: 4px;
+    border-bottom: 1px solid #f0f0f0;
+}
+
+.topx {
+    padding: 4px;
+    border-bottom: 1px dashed #e0e0e0;
+}
+
+.thread-name {
+    padding: 4px;
+    margin-top: -5px;
+    border: 1px solid #f0f0f0;
+    border-top: none;
+    margin-bottom: 5px;
+}
+
+.post {
+    border: 1px solid #e0e0e0;
+    margin-bottom: 5px;
+}
+
+.post-hdr {
+    padding: 2px;
+    background: #f6f7f8;
+}
+
+.onl-img {
+    margin: 0 4px;
+}
+
+.col-avatar {
+    width: 50px;
+}
+
+.col-main {
+    text-align: right;
+    width: 60%;
+}
+
+.avatar {
+    width: 50px;
+}
+
+.content {
+    padding: 5px 2px;
+}
+
+.paging {
+    text-align: center;
+    margin: 2px 0;
+}
+
+.error {
+    font-weight: 700;
+    text-align: center;
+    padding: 4px;
+    color: red;
+}
+
+.msg {
+    font-weight: 700;
+    text-align: center;
+    padding: 4px;
+    color: #ff7800;
+}
+
+.box .topx:last-child {
+    border-bottom: 1px solid #f0f0f0;
+}
+
+.chat-form {
+    padding: 2px;
+    background: #f4f6f8;
+}
+
+.tline {
+    border-top: 1px solid #f3f3f3;
+    text-align: right;
+    padding: 3px;
+}
+
+.smile {
+    display: inline-block;
+    padding: 2px;
+    margin: 4px;
+    border: 1px solid #f0f0f0;
+    width: 7em;
+    text-align: center;
+}
+
+.smile p {
+    display: inline-block;
+    text-align: right;
+    margin: 0 5px;
+}
+
+a.button {
+    display: inline-block;
+    padding: 4px;
+    border: 1px solid #f0f0f0;
+    margin: 4px 2px;
+}
+
+a.button2 {
+    display: inline-block;
+    padding: 2px;
+    border: 1px solid #f0f0f0;
+    margin: 1px;
+}
+
+.block {
+    display: block;
+    text-align: left;
+}
+
+.code {
+    padding: 2px;
+    border: 1px solid #f0f0e0;
+    margin: 2px 0;
+    background: #fafafa;
+}
+
+.clang {
+    display: block;
+    font-weight: 700;
+    border-bottom: 1px solid #e0e0e0;
+    padding: 3px;
+}
+
+.quote {
+    border-left: 2px solid #dcdcdc;
+    background-color: #f3f3f3;
+    padding: 2px;
+}
+
+.li {
+    font-size: x-small;
+    display: inline-block;
+    color: #2080B0;
+    height: 1em
+}
+
+.li-red {
+    font-size: x-small;
+    display: inline-block;
+    color: red
+}
+
+.li-green {
+    font-size: x-small;
+    display: inline-block;
+    color: green
+}
+
+@media screen and (max-width:9999px) {
+    body {
+        font-size: 13px;
+    }
+    #addr-bar a {
+        padding: 5px
+    }
+}
+
+@media screen and (max-width:640px) {
+    body {
+        font-size: 10px;
+    }
+}

@@ -1,0 +1,6 @@
+7.Trong Excel, hàm nào đổi chuỗi thành giá số?
+Trim 
+Value 
+Left
+Mid 
+ b 

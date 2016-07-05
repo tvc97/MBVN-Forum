@@ -1,0 +1,6 @@
+71.Trùng roi xanh sinh sản bằng cách nào?
+Phân đôi theo chiều ngang 
+Phân đôi theo chiều dọc 
+Tiếp hợp 
+Ghép đôi 
+ b

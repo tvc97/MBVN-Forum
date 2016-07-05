@@ -1,0 +1,6 @@
+64.Thao tác nhấp chuột phải vào biểu tượng của tập tin và chọn Properties là để?
+Xem thuộc tính tập tin 
+Sao chép tập tin 
+Đổi tên tập tin 
+Xoá tập tin 
+ a 

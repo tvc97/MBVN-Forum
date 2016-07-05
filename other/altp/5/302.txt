@@ -1,0 +1,6 @@
+96.Hàm số nào sau đây không phải là hàm số chẵn?
+cosx  sinx
+sinx  sinx
+cosx  cosx
+sinx  tgx
+ a

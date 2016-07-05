@@ -1,0 +1,6 @@
+62.Để thoát khỏi một chương trình trong ứng dụng của Windows, ta dùng tổ hợp phím?
+Alt  F4
+Ctrl  F4
+Tab  F4
+Shift  F4
+ a 

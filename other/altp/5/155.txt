@@ -1,0 +1,6 @@
+56.Loài chim nào có thể đứng thẳng góc lên thân cây?
+Chim chìa vôi 
+Chim cú mèo 
+Chim gõ kiến 
+Chim sâu 
+ c 

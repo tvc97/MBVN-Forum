@@ -1,0 +1,6 @@
+31.Theo Phong Thuỷ, trong các kiến trúc sau. Kiến truc nào sẽ đem lại điềm gở?
+Các cửa xoay vòng 
+Các gác tròn 
+Các sân tròn 
+Các cột chống vuông 
+ d 

@@ -1,0 +1,6 @@
+48.Trong bàn cờ tướng có bao nhiêu quân Mã?
+2
+4
+6
+8
+ b 

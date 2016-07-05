@@ -1,0 +1,6 @@
+79.Trong các số sau đây, số nào chia hết cho 2?
+1083 
+1088 
+1085 
+1089 
+ b 

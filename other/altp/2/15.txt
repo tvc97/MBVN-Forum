@@ -1,0 +1,6 @@
+15.Trong bàn cờ Vua, mỗi bên có bao nhiêu ông Vua?
+1
+2
+3
+4
+ a

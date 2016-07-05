@@ -1,0 +1,6 @@
+9.Loại xe nào sau đây phải chạy trên đường ray?
+Xe lửa 
+Xe hơi 
+Xe tải 
+Xe môtô
+ a 

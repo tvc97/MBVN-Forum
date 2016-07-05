@@ -1,0 +1,6 @@
+49.Trong cờ Vua, mỗi quân Hậu có thể đi được bao nhiêu vị trí?
+64
+65
+66
+67
+ a 

@@ -1,0 +1,6 @@
+52.Ngôn ngữ nào là ngôn ngữ lập trình đầu tiên?
+Fortran 
+Pascal 
+C
+Basic
+ a

@@ -1,0 +1,6 @@
+39.Trong kiến trúc kinh thành Huế , cửa Ngọ môn có mấy cửa ra vào?
+3
+5
+7
+8
+ b

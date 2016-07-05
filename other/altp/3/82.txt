@@ -1,0 +1,6 @@
+82.Theo ngôn ngữ Tin học, trong hệ nhị phân thì 1  1  ?
+1
+2
+10
+100
+ c

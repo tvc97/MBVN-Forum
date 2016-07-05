@@ -1,0 +1,6 @@
+56.Trong bàn cờ vua có thể có nhiều nhất bao nhiêu quân Tượng?
+10
+11
+12
+13
+ a 

@@ -1,0 +1,6 @@
+15.Đơn vị đo dung lượng bộ nhớ nào lớn nhất trong các đơn vị sau đây?
+KB 
+MB
+TB
+GB
+ c

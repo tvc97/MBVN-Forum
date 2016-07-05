@@ -1,0 +1,6 @@
+56.Trò chơi dò mìn Minesweeper của Windows nằm ở thư mục nào?
+Systems32
+System32
+System
+Program File
+ b

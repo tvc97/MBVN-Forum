@@ -1,0 +1,6 @@
+80.Trong tin học, câu lệnh khai báo biến mảng được thực hiện ở đâu của chương trình?
+Thân chương trình 
+Cuối chương trình 
+Phần khai báo 
+Chương trình con 
+ c

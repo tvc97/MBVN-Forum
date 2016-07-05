@@ -1,0 +1,6 @@
+75.Trong hệ thống máy vi tính, bộ phận nào là quan trọng nhất?
+RAM
+CPU
+HDD
+CDDrive
+ c

@@ -1,0 +1,6 @@
+41.Tất cả các máy giặt đầu thực hiện các công việc nào?
+Giặt, giũ, vắt 
+Giũ, vắt, xả 
+Giặt, giũ, xả
+Giặt, vắt, xả 
+ d 

@@ -1,0 +1,6 @@
+36.Nguồn sáng nào sau đây không phát ra ánh sáng trắng?
+Bóng đèn pin đang sáng 
+Bóng đèn ống thông dụng 
+Một đèn LED vàng 
+Một ngôi sao 
+ c 

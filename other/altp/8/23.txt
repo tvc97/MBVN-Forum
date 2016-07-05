@@ -1,0 +1,6 @@
+23.Mật độ dân số của thành phố nào đông nhất trong các thành phố sau?
+Hà Nội
+New York
+Tokyo
+Bắc Kinh 
+ b

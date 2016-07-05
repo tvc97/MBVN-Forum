@@ -1,0 +1,6 @@
+49.Trong bàn cờ vua có bao nhiêu quân Tốt?
+14
+16
+18
+20
+ b 

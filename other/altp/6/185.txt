@@ -1,0 +1,6 @@
+89.Chỉ có một châu lục mang tên của một nhà thám hiểm hàng hải nổi tiếng, đó là châu lục nào?
+Châu Âu 
+Châu Á 
+Châu Mỹ 
+Châu Phi 
+ c 

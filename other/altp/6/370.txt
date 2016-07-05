@@ -1,0 +1,6 @@
+173.Trữ lượng dầu mỏ lớn nhất thế giới hiện nay thuộc về khu vực?
+Bắc Mỹ 
+Nam Mỹ 
+Trung Đông 
+Châu Phi
+ c 

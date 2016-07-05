@@ -1,0 +1,6 @@
+67.Trong 20 nguyên tố đầu tiên của bảng tuần hoàn, có bao nhiêu nguyên tố khí hiếm?
+2
+3
+4
+5
+ b

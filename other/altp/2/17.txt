@@ -1,0 +1,6 @@
+17.Trong bàn cờ Vua, mỗi bên có bao nhiêu quân Tượng trắng?
+2
+1
+3
+5
+ b

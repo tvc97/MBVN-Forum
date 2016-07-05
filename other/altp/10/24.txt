@@ -1,0 +1,6 @@
+24.Lớp Ôzôn tập trung chủ yếu ở tầng nào?
+Tầng đối lưu 
+Tầng bình lưu 
+Tầng giữa
+Tầng ngoài
+ a

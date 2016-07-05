@@ -1,0 +1,6 @@
+66.Khoảng cách mỗi múi giờ rộng khoảng bao nhiêu?
+5 độ kinh tuyến 
+10 độ kinh tuyến 
+15 độ kinh tuyến 
+20 độ kinh tuyến 
+ c 

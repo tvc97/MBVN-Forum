@@ -1,0 +1,6 @@
+16.Trong Windows bấm tổ hợp phím nào để dán tập tin sau khi đã Copy?
+Ctrl  C
+Ctrl  V 
+Ctrl  X
+Alt  V
+ b

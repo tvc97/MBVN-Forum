@@ -1,0 +1,307 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+}
+
+body {
+    color: #d0d0d0;
+    word-wrap: break-word;
+    font-family: sans-serif;
+    font-size: x-small;
+    background-color: #000000;
+}
+
+a,a:visited {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+a:hover {
+    text-shadow: 0px 0px 10px #ffffff;
+}
+
+form {
+    padding: 2px;
+    border-bottom: 1px solid #404040;
+}
+
+input,textarea,select {
+    border: 1px solid #404040;
+    color: #d0d0d0;
+    margin: 3px;
+    padding: 2px;
+    max-width: 94%;
+    background: #101010;
+}
+
+img {
+    max-width: 94%;
+}
+
+textarea {
+    width: 94%;
+}
+
+#wraper {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+#header {
+    text-align: center;
+    padding: 6px 0;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 17px;
+    border-bottom: 2px solid #ffffff;
+}
+
+#header a {
+    color: #ffffff;
+}
+
+#nav {
+    border-bottom: 1px solid #777777;
+    text-align: center;
+}
+
+#nav a {
+    padding: 5px;
+    display: inline-block;
+    text-transform: uppercase;
+    position: relative;
+}
+
+span.notify {
+    position: absolute;
+    top: -2px;
+    right: -2px;
+    color: red;
+    font-weight: 700;
+    text-decoration: underline;
+    display: inline-block;
+    background: #ffffff;
+}
+
+#addr-bar {
+    border: 1px solid #404040;
+    border-top: none;
+    margin-bottom: 5px;
+}
+
+#addr-bar a {
+    display: inline-block;
+    padding: 5px;
+}
+
+#footer {
+    margin-top: 8px;
+    border: 1px solid #404040;
+    border-top: 2px solid #404040;
+    color: #f0f0f0;
+    text-align: center;
+    padding: 4px 1px;
+}
+
+#footer .row {
+    margin-bottom: 4px;
+}
+
+.box {
+    border-left: 1px solid #404040;
+    border-right: 1px solid #404040;
+    margin-bottom: 4px;
+}
+
+.hdr {
+    color: #ffffff;
+    padding: 4px;
+    background: #303030;
+}
+
+.hdr a {
+    color: #ffffff;
+}
+
+.row {
+    padding: 4px;
+    border-bottom: 1px solid #404040;
+}
+
+.row1 {
+    background-color: #404040;
+    padding: 4px;
+    border-bottom: 1px solid #f0f0f0;
+}
+
+.row2 {
+    background-color: #777777;
+    padding: 4px;
+    border-bottom: 1px solid #f0f0f0;
+    color: #ffffff
+}
+
+.topx {
+    padding: 4px;
+    border-bottom: 1px dashed #404040;
+}
+
+.thread-name {
+    padding: 4px;
+    margin-top: -5px;
+    border: 1px solid #404040;
+    border-top: none;
+    margin-bottom: 5px;
+}
+
+.post {
+    border: 1px solid #404040;
+    margin-bottom: 5px;
+}
+
+.post-hdr {
+    padding: 2px;
+    background: #202020;
+}
+
+.onl-img {
+    margin: 0 4px;
+}
+
+.col-avatar {
+    width: 50px;
+}
+
+.col-main {
+    text-align: right;
+    width: 60%;
+}
+
+.avatar {
+    width: 50px;
+}
+
+.content {
+    padding: 5px 2px;
+}
+
+.paging {
+    text-align: center;
+    margin: 2px 0;
+}
+
+.error {
+    font-weight: 700;
+    text-align: center;
+    padding: 4px;
+    color: red;
+}
+
+.msg {
+    font-weight: 700;
+    text-align: center;
+    padding: 4px;
+    color: #ff7800;
+}
+
+.box .topx:last-child {
+    border-bottom: 1px solid #404040;
+}
+
+.chat-form {
+    padding: 2px;
+    background: #202020;
+}
+
+.tline {
+    border-top: 1px solid #404040;
+    text-align: right;
+    padding: 3px;
+}
+
+.smile {
+    display: inline-block;
+    padding: 2px;
+    margin: 4px;
+    border: 1px solid #404040;
+    width: 7em;
+    text-align: center;
+}
+
+.smile p {
+    display: inline-block;
+    text-align: right;
+    margin: 0 5px;
+}
+
+a.button {
+    display: inline-block;
+    padding: 4px;
+    border: 1px solid #404040;
+    margin: 4px 2px;
+}
+
+a.button2 {
+    display: inline-block;
+    padding: 2px;
+    border: 1px solid #404040;
+    margin: 1px;
+}
+
+.block {
+    display: block;
+    text-align: left;
+}
+
+.code {
+    padding: 2px;
+    border: 1px solid #404020;
+    margin: 2px 0;
+    background: #505050;
+}
+
+.clang {
+    display: block;
+    font-weight: 700;
+    border-bottom: 1px solid #404040;
+    padding: 3px;
+}
+
+.quote {
+    border-left: 3px solid #777777;
+    background-color: #505050;
+    margin-bottom: 2px;
+    padding: 2px;
+}
+
+.li {
+    font-size: x-small;
+    display: inline-block;
+    color: #ffffff;
+    height: 1em
+}
+
+.li-red {
+    font-size: x-small;
+    display: inline-block;
+    color: red
+}
+
+.li-green {
+    font-size: x-small;
+    display: inline-block;
+    color: green
+}
+
+@media screen and (max-width:9999px) {
+    body {
+        font-size: 13px;
+    }
+}
+
+@media screen and (max-width:640px) {
+    body {
+        font-size: 10px;
+    }
+}

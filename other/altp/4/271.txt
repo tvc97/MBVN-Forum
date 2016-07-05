@@ -1,0 +1,6 @@
+65.Lệnh nào sau đây đổi tên tập tin trong Windows?
+File, Rename 
+Edit, Rename 
+Tools, Rename 
+View, Rename
+ a 

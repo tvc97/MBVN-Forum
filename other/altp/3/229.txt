@@ -1,0 +1,6 @@
+66.Số nào lớn nhất trong các số sau?
+Căn bậc 2 của 2 
+Căn bậc 3 của 3
+Căn bậc 4 của 4 
+Căn bậc 5 của 5 
+ c

@@ -1,0 +1,6 @@
+21.Ban đầu x1, y2. Sau khi sử dụng tempx, xy, ytemp. Vậy x? y?
+x1, y2
+x1, y1
+x2, y2
+x2, y1
+ d

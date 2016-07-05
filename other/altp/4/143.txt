@@ -1,0 +1,6 @@
+44.Trong cờ Tướng, mỗi quân Tốt có thể đi được bao nhiêu vị trí?
+44
+45
+46
+47 
+ d 

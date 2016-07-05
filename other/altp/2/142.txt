@@ -1,0 +1,6 @@
+54.Trong bàn cờ vua có thể có nhiều nhất bao nhiêu quân Hậu?
+1
+7
+8
+9
+ d

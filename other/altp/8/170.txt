@@ -1,0 +1,6 @@
+87.Trong các cách sắp xếp các chất nở vì nhiệt từ ít tới nhiều sau đây, thứ tự nào đúng?
+Nhôm  đồng  sắt 
+Sắt  nhôm  đồng 
+Sắt  đồng  nhôm 
+Đồng  nhôm  sắt 
+ c 

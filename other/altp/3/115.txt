@@ -1,0 +1,6 @@
+28.Các hoạt động nào dưới đây lặp với số lần nhất định?
+Học đến khi thuộc
+Chạy đến khi tới đích 
+Mỗi ngày đi học 1 lần 
+Gọi đến khi nhấc máy 
+ c 

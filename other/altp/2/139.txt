@@ -1,0 +1,6 @@
+51.Trong bàn cờ vua có bao nhiêu quân Tượng?
+2
+4
+6
+8
+ b 

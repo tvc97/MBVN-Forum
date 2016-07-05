@@ -1,0 +1,6 @@
+62.Trong hệ điều hành DOS, thư mục gốc có thể chứa tối đa bao nhiêu tệp?
+128
+256
+512
+1024
+ c

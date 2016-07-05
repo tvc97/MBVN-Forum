@@ -1,0 +1,6 @@
+39.Lệnh Msgbox là lệnh trong ngôn ngữ lập trình nào?
+Pascal 
+Visual basic
+Java
+C
+ b

@@ -1,0 +1,6 @@
+15.Từ mỗi tinh bào bậc 1 qua giảm phân cho ra bao nhiêu tinh trùng?
+1 tinh trùng 
+2 tinh trùng 
+3 tinh trùng 
+4 tinh trùng 
+ d

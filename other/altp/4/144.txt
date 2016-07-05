@@ -1,0 +1,6 @@
+45.Trong cờ Tướng, mỗi quân Tượng có thể đi được bao nhiêu vị trí?
+6
+7
+8
+9
+ b 

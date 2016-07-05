@@ -1,0 +1,6 @@
+50.Trong bàn cờ vua có bao nhiêu quân Xe?
+2
+4
+6
+8
+ b 

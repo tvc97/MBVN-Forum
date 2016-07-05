@@ -1,0 +1,6 @@
+2.Loài vật nào không có hàm răng trên?
+Bò 
+Trâu 
+Ngựa 
+Lừa 
+ b

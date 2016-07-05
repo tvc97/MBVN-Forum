@@ -1,0 +1,6 @@
+93.Cho một quỳ tím, khi nhúng vào dung dịch axit, quỳ tím chuyển sang màu gì?
+Màu xanh 
+Màu vàng 
+Màu đỏ 
+Không đổi màu
+c

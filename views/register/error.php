@@ -1,0 +1,1 @@
+    <div class="error">Đã xảy ra lỗi trong quá trình xử lý, vui lòng liên hệ Quản trị viên để được trợ giúp.</div>

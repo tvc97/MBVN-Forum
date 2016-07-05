@@ -1,0 +1,6 @@
+31.Mực tàu có bao nhiêu màu?
+1
+2
+3
+4
+ b 

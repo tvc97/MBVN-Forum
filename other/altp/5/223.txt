@@ -1,0 +1,6 @@
+17.Khi mất điện, thông tin lưu trữ trong các thành phần nào sau đây bị mất?
+Đĩa cứng
+ROM 
+RAM
+CPU
+ c 

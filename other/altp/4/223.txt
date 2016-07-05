@@ -1,0 +1,6 @@
+17.Refresh lại máy tính, ta có thể sử dụng phím tắt gì?
+CtrlR
+F5
+AtlR
+F8
+ b 

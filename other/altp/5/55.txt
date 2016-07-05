@@ -1,0 +1,6 @@
+55.Phần mở rộng nào là của các file văn bản?
+.exe
+.bmp
+.xls
+.doc
+ d

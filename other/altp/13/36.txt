@@ -1,0 +1,6 @@
+36.Một chu kì tế bào có mấy giai đoạn rõ rệt?
+4 giai đoạn 
+3 giai đoạn 
+2 giai đoạn 
+1 giai đoạn
+ c

@@ -1,0 +1,6 @@
+154.Một người trưởng thành có bao nhiêu chiếc xương?
+200 
+206
+212
+220 
+ b 

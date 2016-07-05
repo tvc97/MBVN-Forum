@@ -1,0 +1,6 @@
+63.Sắp xếp các kim loại Na, Mg, Al, K theo quy luật tính kim loại giảm dần?
+Na, Mg, Al, K
+K, Na, Mg, Al
+Al, Mg, Na, K
+Na, K, Mg, Al
+ b

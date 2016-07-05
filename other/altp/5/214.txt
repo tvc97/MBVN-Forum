@@ -1,0 +1,6 @@
+8. Trong Excel, hàm nào chuyển chuỗi thành chữ in hoa?
+Upper 
+Trim 
+Lower 
+Proper
+ a 

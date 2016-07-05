@@ -1,0 +1,6 @@
+20.Trong bàn cờ Vua, mỗi bên có bao nhiêu quân Mã?
+4
+3
+2
+1
+ c

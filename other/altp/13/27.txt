@@ -1,0 +1,6 @@
+27.Tự sao chép AND của sinh vật nhân chuẩn được sao chép ở đâu?
+Một vòng sao chép 
+Hai vòng sao chép 
+Nhiều vòng sao chép 
+Dạng mạch thẳng
+ c

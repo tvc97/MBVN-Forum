@@ -1,0 +1,6 @@
+12.Trong tin học, bộ nhớ RAM và ROM là bộ nhớ gì?
+Secondary Memory
+Receive Memory
+Primary Memory
+Random Access Memory
+ c 

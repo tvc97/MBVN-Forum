@@ -1,0 +1,6 @@
+27.Các hoạt động nào dưới đây lặp với số lần nhất định?
+Ngày đánh răng 3 lần 
+Học cho đến khi nào thuộc
+Gọi đến khi nào nhấc máy 
+Chạy đến khi đến đích
+ a

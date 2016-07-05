@@ -1,0 +1,6 @@
+45.Trong bàn cờ tướng có bao nhiêu quân Tốt?
+8
+10
+12
+14
+ b 

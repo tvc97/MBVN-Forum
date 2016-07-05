@@ -1,0 +1,6 @@
+14.Thứ tự nào đúng nhất trong các thứ tự sau?
+Ăn hay học vóc
+Ăn vóc học hay 
+Học hay ăn vóc
+Học vóc ăn hay 
+ b

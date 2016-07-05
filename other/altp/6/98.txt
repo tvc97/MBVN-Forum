@@ -1,0 +1,6 @@
+2.Dựa vào số khoanh trong thân cây có thể xác định được điều gì?
+Độ cao 
+Loài cây 
+Tuổi đời 
+Độ cứng
+ c

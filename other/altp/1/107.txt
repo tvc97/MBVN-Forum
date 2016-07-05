@@ -1,0 +1,6 @@
+22.Cho biết thứ tự nào sau đây là đúng nhất?
+Hạ, đông, xuân, thu 
+Xuân, hạ, thu, đông 
+Xuân, hạ, đông, xuân 
+Xuân, thu, hạ, đông 
+ b 
