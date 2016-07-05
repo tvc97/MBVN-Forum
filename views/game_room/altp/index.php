@@ -23,9 +23,6 @@
         <div class="row">
             <label><input type="radio" name="answer" value="d" /> <?php echo $this->data['d']; ?></label>
         </div>
-<?php if($this->user->level > 10): ?>
-        <div class="row"><?php echo $this->altp_answer; ?></div>
-<?php endif; ?>
         <div class="row">
             <input type="submit" class="button" value="Trả lời"/><a class="button" href="<?php echo URL; ?>/game_room/altp/stop/">Dừng cuộc chơi</a>
         </div>
